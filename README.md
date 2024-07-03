@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 I'm a second-year student at the University of Delhi, majoring in Computer Science and minoring in Economics.
+- 🎓 I'm a student at the University of Delhi, majoring in Computer Science and minoring in Economics.
 - 💻 I'm passionate about machine learning, data science, and exploring new technologies to solve real-world problems.
 - 📚 I love reading spiritual books.
 - 🌱 Currently, I'm learning natural language processing (NLP) and enhancing my skills in Python and data analysis.
