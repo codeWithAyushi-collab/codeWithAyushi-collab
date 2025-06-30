@@ -1,39 +1,47 @@
-# Hi there, I'm Ayushi Bhati! 👋
+# 👋 Hi, I'm Ayushi Bhati!
 
-## About Me
+🎓 Final Year CS student at University of Delhi | Minor in Economics  
+💡 Passionate about machine learning, data science, and using technology to make information more accessible and impactful.
 
-- 🎓 I'm a student at the University of Delhi, majoring in Computer Science and minoring in Economics.
-- 💻 I'm passionate about machine learning, data science, and exploring new technologies to solve real-world problems.
-- 📚 I love reading spiritual books.
-- 🌱 Currently, I'm learning natural language processing (NLP) and enhancing my skills in Python and data analysis.
-- 🔭 I'm actively seeking internships and opportunities to apply my knowledge and skills in a practical setting.
+---
 
-## What I'm Working On
+## 🔭 What I'm Currently Working On:
+- 🧠 Exploring natural language processing (NLP) and transformers
+- 📊 Building real-world projects in Power BI, SQL, and Excel
+- 💻 Practicing core ML algorithms and model evaluation
 
-- 📊 Exploring data analysis techniques with Python and Excel.
-- 🤖 Learning machine learning algorithms for predictive modeling and pattern recognition.
-- 🌐 Developing my personal portfolio website to showcase my projects and achievements.
+---
 
-## How to Reach Me
+## 💼 Featured Projects:
+- Pizza Sales SQL Analysis  
+  github.com/codeWithAyushi-collab/Pizza-Sales-SQL-Analysis
 
-- 📫 You can reach me via email at [bhatiayushi10@gmail.com].
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayushi-bhati-b8653a278/)).
+- Retail Sales Excel Dashboard  
+  github.com/codeWithAyushi-collab/Retail-Sales-Analysis-Excel
 
-## Fun Fact
+- Machine Learning with Python  
+  github.com/codeWithAyushi-collab/Machine-Learning-With-Python
 
-- 😄 I love sharing godly experiences and discussing spiritual insights with others!
+- Player Re-identification using YOLOv8 (Internship Project)  
+  github.com/codeWithAyushi-collab/player-reid-liatai
 
-## Let's Collaborate
+- Physician Note Summarization (NLP)  
+  github.com/codeWithAyushi-collab/physician-notetaker
 
-- 💡 Interested in collaborating on projects related to data science, machine learning, or web development? Let's chat!
+---
 
-## Connect with Me
+## 🛠️ Tech Stack:
+Python, Pandas, scikit-learn, TensorFlow, NLTK, SQL, Power BI,  
+Excel, Jupyter, Google Colab, Git, GitHub, Matplotlib, Seaborn
 
-- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/ayushi-bhati-b8653a278/)).
-- GitHub: [Your GitHub Profile] (https://github.com/codeWithAyushi-collab)
+---
 
+## ✨ Fun Fact:
+I enjoy reading Indian spiritual books like the Bhagavad Gita and love reflecting on their modern-day relevance.
 
-<!---
-codeWithAyushi-collab/codeWithAyushi-collab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Let's Connect!
+Email: bhatiayushi10@gmail.com  
+LinkedIn: linkedin.com/in/ayushi-bhati-b8653a278  
+GitHub: github.com/codeWithAyushi-collab
