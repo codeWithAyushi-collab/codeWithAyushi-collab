@@ -1,47 +1,33 @@
-# 👋 Hi, I'm Ayushi Bhati!
+# 👋 Hi, I'm Ayushi Bhati
 
-🎓 Final Year CS student at University of Delhi | Minor in Economics  
-💡 Passionate about machine learning, data science, and using technology to make information more accessible and impactful.
+🎯 Data Analyst | SQL, Python, Power BI | Marketing Analytics & Dashboarding  
 
----
+I’m a final-year Computer Science student at the University of Delhi with hands-on experience in data analytics, dashboarding, and real-world data problem-solving.
 
-## 🔭 What I'm Currently Working On:
-- 🧠 Exploring natural language processing (NLP) and transformers
-- 📊 Building real-world projects in Power BI, SQL, and Excel
-- 💻 Practicing core ML algorithms and model evaluation
+## 💼 Experience Highlights
+- Built Power BI dashboards to track marketing KPIs (leads, CPL) at Times Internet (ET B2B)
+- Analyzed campaign data across Google Ads, LinkedIn Ads, and Meta Ads
+- Developed Python-based automation pipelines for data collection
+- Worked on ML/NLP projects including chatbot development and text analysis
 
----
+## 📊 Featured Projects
 
-## 💼 Featured Projects:
-- Pizza Sales SQL Analysis  
-  github.com/codeWithAyushi-collab/Pizza-Sales-SQL-Analysis
+### 🔹 Cars24 Used Car Analysis  
+- End-to-end analysis using Python (Pandas)  
+- Identified pricing trends and resale insights  
+👉 [View Project](https://github.com/codeWithAyushi-collab/cars24-used-car-analysis)
 
-- Retail Sales Excel Dashboard  
-  github.com/codeWithAyushi-collab/Retail-Sales-Analysis-Excel
+### 🔹 Pizza Sales SQL Analysis  
+- SQL queries for revenue trends & business insights  
+👉 [View Project](https://github.com/codeWithAyushi-collab/Pizza-Sales-SQL-Analysis)
 
-- Machine Learning with Python  
-  github.com/codeWithAyushi-collab/Machine-Learning-With-Python
+### 🔹 Retail Sales Excel Dashboard  
+- Built interactive dashboard using Excel (Pivot Tables, Charts)  
+👉 [View Project](https://github.com/codeWithAyushi-collab/Retail-Sales-Analysis-Excel)
 
-- Player Re-identification using YOLOv8 (Internship Project)  
-  github.com/codeWithAyushi-collab/player-reid-liatai
+## 🛠️ Tech Stack
+SQL • Python • Power BI • Excel • Pandas • NumPy • Scikit-learn
 
-- Physician Note Summarization (NLP)  
-  github.com/codeWithAyushi-collab/physician-notetaker
-
----
-
-## 🛠️ Tech Stack:
-Python, Pandas, scikit-learn, TensorFlow, NLTK, SQL, Power BI,  
-Excel, Jupyter, Google Colab, Git, GitHub, Matplotlib, Seaborn
-
----
-
-## ✨ Fun Fact:
-I enjoy reading Indian spiritual books like the Bhagavad Gita and love reflecting on their modern-day relevance.
-
----
-
-## 📫 Let's Connect!
-Email: bhatiayushi10@gmail.com  
-LinkedIn: linkedin.com/in/ayushi-bhati-b8653a278  
-GitHub: github.com/codeWithAyushi-collab
+## 📫 Connect with me
+📧 Email: bhatiayushi10@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ayushi-bhati-b8653a278
