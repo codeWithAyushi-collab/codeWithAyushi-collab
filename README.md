@@ -2,8 +2,6 @@
 
 🎯 Data Analyst | SQL, Python, Power BI | Marketing Analytics & Dashboarding  
 
-I’m a final-year Computer Science student at the University of Delhi with hands-on experience in data analytics, dashboarding, and real-world data problem-solving.
-
 ## 💼 Experience Highlights
 - Built Power BI dashboards to track marketing KPIs (leads, CPL) at Times Internet (ET B2B)
 - Analyzed campaign data across Google Ads, LinkedIn Ads, and Meta Ads
